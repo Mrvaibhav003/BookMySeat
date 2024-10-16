@@ -1,1 +1,1 @@
-# BookMySeat
+My online ticket booking system is designed to facilitate the reservation and management of bus tickets. It utilizes Spring Boot for backend development, JSP for the front end, and MySQL for database management. The system features user-friendly interfaces for searching buses, booking tickets, and managing reservations. Additionally, it includes essential ticket details like bus name, number, departure city, arrival city, date, and price, ensuring a seamless experience for users.
